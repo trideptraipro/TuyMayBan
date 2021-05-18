@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">Acrylic Paint</string>
+    <string name="here_is_your_canvas">Bắt đầu chạm để vẽ</string>
+    <string name="color">Bảng màu</string>
+    <string name="emboss">In đậm</string>
+    <string name="blur">Làm mờ</string>
+    <string name="brush_size">Kích thước bút vẽ</string>
+    <string name="erase">Tẩy</string>
+    <string name="clear_foreground">Chỉ xóa bản vẽ</string>
+    <string name="clear_background">Chỉ xóa backgroud</string>
+    <string name="clear_everything">Xóa tất cả</string>
+    <string name="save">Lưu</string>
+    <string name="share">Chia sẽ</string>
+    <string name="about">About</string>
+    <string name="open_image">Mở hình ảnh làm nền</string>
+    <string name="fill_background_with_color">Tô màu cho nền</string>
+    <string name="your_selected_size_is">Kích thước đã chọn: %1$d</string>
+    <string name="choose_width">Kích thước bút vẽ</string>
+    <string name="saved_your_location_to">Lưu hình ảnh %1$s</string>
+    <string name="select">Select</string>
+    <string name="continue_fuck">Continue</string> <!-- Workaround to avoid "R.string.continue", that it's as a special class-word! D: -->
+    <string name="ok">OK</string>
+    <string name="pick_color">Chọn màu sắc</string>
+    <string name="toolbox_share_title">Chia sẻ</string>
+    <string name="share_title_template">/</string>
+    <string name="share_text_template">Share as text</string>
+    <string name="no_way_to_share">Không thể tìm thấy một ứng dụng để chia sẻ…</string>
+    <string name="brush">Bút vẽ</string>
+    <string name="press_back_again">Press back again to exit!\n(Losing all unsaved work)</string>
+    <string name="about_description">
+<![CDATA[
+<h1>Acrylic Paint</h1>
+<p>Cảm ơn vì đã sử dụng<br />This is a <b>free and open-source software</b> to free your creativity!</p>
+
+<h2>Credits</h2>
+<p>Special thanks to:<br>
+<b><a href="https://github.com/anupam1525>Anupam Shrivastava</a></b> for the former version of Acrylic Paint. He's now inactive.<br>
+<b><a href="https://github.com/valerio-bozzolan">Valerio Bozzolan</a></b> for the great work done reviewing the source code and optimising it. He currently carries on the work for this version of Acrylic Paint.<br>
+<b><a href="https://github.com/marcogagino-22">Marco Gagino</a></b> for the thorough restyling and the great participation!
+</p>
+
+<h2>Licenses</h2>
+<p>This version of Acrylic Paint and its source code are released by <a href="https://boz.reyboz.it">Valerio Bozzolan</a> under the
+terms of the <i>GNU GPLv3+</i> license.
+This license gives everyone the ability to use, study, better, and share this app by <b>any means</b> and for <b>every purpose</b> as long as you offer these same rights to others.</p>
+<p>This app is distributed <b>in the hopes that it will be useful to everyone</b>, but without any warranty; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.</p>
+
+<h2>Note</h2>
+<p>If you notice any problem or if you have some ideas, feel free to use the <a href="https://github.com/valerio-bozzolan/AcrylicPaint/issues">issue tracker</a>.</p>
+<p>Contribute to the source code: <a href="https://github.com/valerio-bozzolan/AcrylicPaint">valerio-bozzolan/AcrylicPaint</a> @GitHub.</p>
+<p>Read the <a href="https://github.com/valerio-bozzolan/AcrylicPaint/blob/master/README.md">README</a> file for further information.</p>
+
+<p>Have fun!</p>
+    ]]>
+    </string>
+    <string name="select_image_to_open">Mở hình ảnh</string>
+    <string name="color_extracted">New color extracted</string>
+    <string name="tap_to_extract_color">Kích để chọn màu</string>
+    <string name="ability_disabled_need_newer_api_level">93 / 5000
+Kết quả dịch
+Khả năng đó bị vô hiệu hóa vì nó yêu cầu phiên bản Android mới hơn </string>
+    <string name="smudge">Nhòe</string>
+    <string name="clear_options">Tùy chọn xóa</string>
+    <string name="drawing_effects">Hiệu ứng vẽ</string>
+
+</resources>
